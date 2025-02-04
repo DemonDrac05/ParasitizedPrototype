@@ -1,0 +1,54 @@
+# =============== #
+# Editor settings #
+# =============== #
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Assets/AssetStoreTools*
+Assets/Plugins/Editor/JetBrains*
+Packages/Packages-lock.json
+
+# =============== #
+# Project Settings #
+# =============== #
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/ProjectSettings.asset
+
+# =================== #
+# PC configuration #
+# =================== #
+*.sln
+*.csproj
+*.csproj.meta
+*.userprefs
+*.user
+*.DS_Store
+
+# ============= #
+# OS generated #
+# ============= #
+.DS_Store
+.DS_Store?
+._*
+
+# ============= #
+# Other files #
+# ============= #
+*.pid
+*.log
+*.bak
+*.swp
+*.vs
+*.booproj
+*.tmproj
+*.unityproj
+*.unitypref
+*.orig
+*.moved
+*.moved-meta
+*.tmp
+[Ee]xport
+[Bb]uild*
+[Bb]uilds
